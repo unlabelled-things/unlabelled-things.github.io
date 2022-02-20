@@ -4,7 +4,7 @@ markdown:            redcarpet
 highlighter:         pygments
 
 # Permalinks
-permalink:           https://unlabelled-things.github.io/:title
+permalink:           /:title
 relative_permalinks: false
 
 # Setup
