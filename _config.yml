@@ -10,7 +10,7 @@ relative_permalinks: true
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
-name:				         site name
+name:				         unlabelled things
 title:               site title
 tagline:             'tagline'
 description:         'description'
